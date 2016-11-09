@@ -41,33 +41,83 @@ body {
 }
 
 .agua-hielo {
-  background-image: url("../img/fondos/agua-hielo.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/agua-hielo.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .agua-lucha {
-  background-image: url("../img/fondos/agua-lucha.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/agua-lucha.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .agua-psiquico {
-  background-image: url("../img/fondos/agua-psiquico.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/agua-psiquico.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .agua-veneno {
-  background-image: url("../img/fondos/agua-veneno.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/agua-veneno.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .agua-volador {
-  background-image: url("../img/fondos/agua-volador.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/agua-volador.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .agua:before {
@@ -84,186 +134,484 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-
-
 }
 
 .bicho-planta {
-  background-image: url("../img/fondos/bicho-planta.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/bicho-planta.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .bicho-veneno {
-  background-image: url("../img/fondos/bicho-veneno.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/bicho-veneno.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .bicho-volador {
-  background-image: url("../img/fondos/bicho-volador.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/bicho-volador.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .bicho {
-  background-image: url("../img/fondos/bicho.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/bicho.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .dragon-volador {
-  background-image: url("../img/fondos/dragon-volador.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/dragon-volador.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .dragon {
-  background-image: url("../img/fondos/dragon.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/dragon.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .electrico-acero {
-  background-image: url("../img/fondos/electrico-acero.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/electrico-acero.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .electrico-volador {
-  background-image: url("../img/fondos/electrico-volador.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/electrico-volador.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .electrico {
-  background-image: url("../img/fondos/electrico.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/electrico.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .fantasma-veneno {
-  background-image: url("../img/fondos/fantasma-veneno.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/fantasma-veneno.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .fuego-volador {
-  background-image: url("../img/fondos/fuego-volador.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/fuego-volador.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .fuego {
-  background-image: url("../img/fondos/fuego.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/fuego.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .hada {
-  background-image: url("../img/fondos/hada.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/hada.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .hielo-psiquico {
-  background-image: url("../img/fondos/hielo-psiquico.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/hielo-psiquico.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .hielo-volador {
-  background-image: url("../img/fondos/hielo-volador.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/hielo-volador.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .lucha {
-  background-image: url("../img/fondos/lucha.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/lucha.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .normal-hada {
-  background-image: url("../img/fondos/normal-hada.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/normal-hada.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .normal-volador {
-  background-image: url("../img/fondos/normal-volador.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/normal-volador.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .normal {
-  background-image: url("../img/fondos/normal.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/normal.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .planta-psiquico {
-  background-image: url("../img/fondos/planta-psiquico.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/planta-psiquico.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .planta-veneno {
-  background-image: url("../img/fondos/planta-veneno.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/planta-veneno.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .planta {
-  background-image: url("../img/fondos/planta.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/planta.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .psiquico-hada {
-  background-image: url("../img/fondos/psiquico-hada.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/psiquico-hada.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .psiquico {
-  background-image: url("../img/fondos/psiquico.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/psiquico.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .roca-agua {
-  background-image: url("../img/fondos/roca-agua.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/roca-agua.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .roca-tierra {
-  background-image: url("../img/fondos/roca-tierra.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/roca-tierra.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .tierra {
-  background-image: url("../img/fondos/tierra.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/agua.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .veneno-tierra {
-  background-image: url("../img/fondos/veneno-tierra.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/veneno-tierra.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .veneno-volador {
-  background-image: url("../img/fondos/veneno-volador.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/veneno-volador.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .veneno {
-  background-image: url("../img/fondos/veneno.png");
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("../img/fondos/veneno.png") no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
