@@ -1,0 +1,33 @@
+body {
+  background-image: url("../img/fondo.png");
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+  border-bottom: 25px solid #9c6a3b;
+  margin-bottom: 50px;
+}
+
+.tipos {
+  margin: 300px 0 0 0;
+}
+
+.tipo-item {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.tipo-item a {
+  text-decoration: none;
+}
+
+.tipo-img {
+  width: 128px;
+  height: 160px;
+}
