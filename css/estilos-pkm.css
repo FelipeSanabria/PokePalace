@@ -71,9 +71,13 @@ body {
 }
 
 .agua {
-  background-image: url("../img/fondos/agua.png");
+  background: url("../img/fondos/agua.png") no-repeat center center fixed;
   background-size: cover;
-  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+
 }
 
 .bicho-planta {
