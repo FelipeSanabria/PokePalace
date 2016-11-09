@@ -40,7 +40,7 @@ body {
   display: inherit;
 }
 
-.agua-hielo {
+.agua-hielo:before {
   content: "";
   display: block;
   position: fixed;
@@ -56,7 +56,7 @@ body {
   -o-background-size: cover;
 }
 
-.agua-lucha {
+.agua-lucha:before {
   content: "";
   display: block;
   position: fixed;
@@ -72,7 +72,7 @@ body {
   -o-background-size: cover;
 }
 
-.agua-psiquico {
+.agua-psiquico:before {
   content: "";
   display: block;
   position: fixed;
@@ -88,7 +88,7 @@ body {
   -o-background-size: cover;
 }
 
-.agua-veneno {
+.agua-veneno:before {
   content: "";
   display: block;
   position: fixed;
@@ -104,7 +104,7 @@ body {
   -o-background-size: cover;
 }
 
-.agua-volador {
+.agua-volador:before {
   content: "";
   display: block;
   position: fixed;
@@ -136,7 +136,7 @@ body {
   -o-background-size: cover;
 }
 
-.bicho-planta {
+.bicho-planta:before {
   content: "";
   display: block;
   position: fixed;
@@ -152,7 +152,7 @@ body {
   -o-background-size: cover;
 }
 
-.bicho-veneno {
+.bicho-veneno:before {
   content: "";
   display: block;
   position: fixed;
@@ -168,7 +168,7 @@ body {
   -o-background-size: cover;
 }
 
-.bicho-volador {
+.bicho-volador:before {
   content: "";
   display: block;
   position: fixed;
@@ -184,7 +184,7 @@ body {
   -o-background-size: cover;
 }
 
-.bicho {
+.bicho:before {
   content: "";
   display: block;
   position: fixed;
@@ -200,7 +200,7 @@ body {
   -o-background-size: cover;
 }
 
-.dragon-volador {
+.dragon-volador:before {
   content: "";
   display: block;
   position: fixed;
@@ -216,7 +216,7 @@ body {
   -o-background-size: cover;
 }
 
-.dragon {
+.dragon:before {
   content: "";
   display: block;
   position: fixed;
@@ -232,7 +232,7 @@ body {
   -o-background-size: cover;
 }
 
-.electrico-acero {
+.electrico-acero:before {
   content: "";
   display: block;
   position: fixed;
@@ -248,7 +248,7 @@ body {
   -o-background-size: cover;
 }
 
-.electrico-volador {
+.electrico-volador:before {
   content: "";
   display: block;
   position: fixed;
@@ -264,7 +264,7 @@ body {
   -o-background-size: cover;
 }
 
-.electrico {
+.electrico:before {
   content: "";
   display: block;
   position: fixed;
@@ -280,7 +280,7 @@ body {
   -o-background-size: cover;
 }
 
-.fantasma-veneno {
+.fantasma-veneno:before {
   content: "";
   display: block;
   position: fixed;
@@ -296,7 +296,7 @@ body {
   -o-background-size: cover;
 }
 
-.fuego-volador {
+.fuego-volador:before {
   content: "";
   display: block;
   position: fixed;
@@ -312,7 +312,7 @@ body {
   -o-background-size: cover;
 }
 
-.fuego {
+.fuego:before {
   content: "";
   display: block;
   position: fixed;
@@ -328,7 +328,7 @@ body {
   -o-background-size: cover;
 }
 
-.hada {
+.hada:before {
   content: "";
   display: block;
   position: fixed;
@@ -344,7 +344,7 @@ body {
   -o-background-size: cover;
 }
 
-.hielo-psiquico {
+.hielo-psiquico:before {
   content: "";
   display: block;
   position: fixed;
@@ -360,7 +360,7 @@ body {
   -o-background-size: cover;
 }
 
-.hielo-volador {
+.hielo-volador:before {
   content: "";
   display: block;
   position: fixed;
@@ -376,7 +376,7 @@ body {
   -o-background-size: cover;
 }
 
-.lucha {
+.lucha:before {
   content: "";
   display: block;
   position: fixed;
@@ -392,7 +392,7 @@ body {
   -o-background-size: cover;
 }
 
-.normal-hada {
+.normal-hada:before {
   content: "";
   display: block;
   position: fixed;
@@ -408,7 +408,7 @@ body {
   -o-background-size: cover;
 }
 
-.normal-volador {
+.normal-volador:before {
   content: "";
   display: block;
   position: fixed;
@@ -424,7 +424,7 @@ body {
   -o-background-size: cover;
 }
 
-.normal {
+.normal:before {
   content: "";
   display: block;
   position: fixed;
@@ -440,7 +440,7 @@ body {
   -o-background-size: cover;
 }
 
-.planta-psiquico {
+.planta-psiquico:before {
   content: "";
   display: block;
   position: fixed;
@@ -456,7 +456,7 @@ body {
   -o-background-size: cover;
 }
 
-.planta-veneno {
+.planta-veneno:before {
   content: "";
   display: block;
   position: fixed;
@@ -472,7 +472,7 @@ body {
   -o-background-size: cover;
 }
 
-.planta {
+.planta:before {
   content: "";
   display: block;
   position: fixed;
@@ -488,7 +488,7 @@ body {
   -o-background-size: cover;
 }
 
-.psiquico-hada {
+.psiquico-hada:before {
   content: "";
   display: block;
   position: fixed;
@@ -504,7 +504,7 @@ body {
   -o-background-size: cover;
 }
 
-.psiquico {
+.psiquico:before {
   content: "";
   display: block;
   position: fixed;
@@ -520,7 +520,7 @@ body {
   -o-background-size: cover;
 }
 
-.roca-agua {
+.roca-agua:before {
   content: "";
   display: block;
   position: fixed;
@@ -536,7 +536,7 @@ body {
   -o-background-size: cover;
 }
 
-.roca-tierra {
+.roca-tierra:before {
   content: "";
   display: block;
   position: fixed;
@@ -552,7 +552,7 @@ body {
   -o-background-size: cover;
 }
 
-.tierra {
+.tierra:before {
   content: "";
   display: block;
   position: fixed;
@@ -568,7 +568,7 @@ body {
   -o-background-size: cover;
 }
 
-.veneno-tierra {
+.veneno-tierra:before {
   content: "";
   display: block;
   position: fixed;
@@ -584,7 +584,7 @@ body {
   -o-background-size: cover;
 }
 
-.veneno-volador {
+.veneno-volador:before {
   content: "";
   display: block;
   position: fixed;
@@ -600,7 +600,7 @@ body {
   -o-background-size: cover;
 }
 
-.veneno {
+.veneno:before {
   content: "";
   display: block;
   position: fixed;
