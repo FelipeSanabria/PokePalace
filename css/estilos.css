@@ -11,6 +11,20 @@ body {
   padding: 0;
 }
 
+input[type=search] {
+    background-color: #fbc79a;
+    background-image: url('../img/busqueda.png');
+    background-position: 50px 25px;
+    background-repeat: no-repeat;
+    background-size: 125px;
+    border: none;
+    box-sizing: content-box;
+    font-size: 100px;
+    margin: 100px 0 25px 0;
+    padding: 25px 20px 25px 200px;
+    width: 75%;
+}
+
 .contenedor {
   display: flex;
 	flex-flow: row wrap;
@@ -20,7 +34,7 @@ body {
 }
 
 .tipos {
-  margin: 300px 0 0 0;
+  margin: 0 auto;
 }
 
 .tipo-item {
