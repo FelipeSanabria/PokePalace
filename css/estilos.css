@@ -20,9 +20,24 @@ input[type=search] {
     border: none;
     box-sizing: content-box;
     font-size: 100px;
-    margin: 100px 0 25px 0;
+    margin: 0 auto;
     padding: 25px 20px 25px 200px;
-    width: 75%;
+    width: 70%;
+}
+
+.busqueda {
+  display: flex;
+  margin: 100px 0 25px 0;
+}
+
+.filtros {
+  display: inline-block;
+}
+
+.filtros img {
+  height: 50px;
+  margin-top: 25px;
+  width: 50px;
 }
 
 .contenedor {
